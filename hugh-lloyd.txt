@@ -68,7 +68,6 @@ https://codepen.io/Gracchus/pen/YzPPVyq?editors=1100
     22. What is a parent child selector? When would this be useful? 
                      it is a pseudo selector, it is useful for selecting specific items such as first last or elsewhere using the nth child
 
-
     23. How do you select all links within a div with the class of sidebar?
                 a .sidebar
 
@@ -90,10 +89,8 @@ https://codepen.io/Gracchus/pen/YzPPVyq?editors=1100
                             border: 1px dotted black;
                         }
 
-
     29. How do I select everything on the page?
                                 * asterisk
-
 
     30. How do I write a comment in CSS?
                 cntrl / shortcut or */
@@ -101,14 +98,11 @@ https://codepen.io/Gracchus/pen/YzPPVyq?editors=1100
     31. How do I find out what file I am in, when I am using the command line?
                         pwd   
 
-
-    32. Using the command line - how do I see a list of files/folders in my current folder?
-                        ls  
+     32. Using the command line - how do I see a list of files/folders in my current folder?
+                ls  
 
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
                     rm "filename", there are no warnings like when using GUI
-
-
 
     34. Why should I use version control?
                     to keep projects updated for viewing and collaboration of others
@@ -116,8 +110,7 @@ https://codepen.io/Gracchus/pen/YzPPVyq?editors=1100
     35. How often should I commit to github?
                     when progress has been made, often
 
-
-    36. What is the command we would use to push our repo up to github?
+     36. What is the command we would use to push our repo up to github?
                         git push -u origin "branchname"
 
     37. Walk me through Lambda's git flow. 
@@ -127,15 +120,11 @@ Stretch Questions
 
     1. What is the difference between an inline element and a block element?
                             inline elements show side by side rather than vertically
-
-
+    
     2. What happens when an element is positioned absolutely?
-
 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
 
+     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-
-    
     5. In your own words, explain the box model. What is the fix for the box model? 
